@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development Projects
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on more eye-opening projects to improve myself on
-- 📫 How to reach me alabipraise26@gmail.com
+- 📫 How to reach me alabipraise26@gmail.com and through my portfolio https://portfolio-libras-projects-12c552db.vercel.app/
 
 
 
